@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, I'm Yousef 👋
 Miami-based IT professional transitioning into cloud and systems engineering.
 Bilingual in English and Spanish.
